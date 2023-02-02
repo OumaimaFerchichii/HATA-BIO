@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "261201240665",
+    "project_id": "hattabio-52afb",
+    "storage_bucket": "hattabio-52afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261201240665:android:fb8cdd51e72a3705d28748",
+        "android_client_info": {
+          "package_name": "com.HATTA.BIO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261201240665-bs82siiri74ca96vfv0c4niqlfbavp6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1JB3xF2g_P1DCbZO3L0QYsi-sGrild4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261201240665-bs82siiri74ca96vfv0c4niqlfbavp6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "261201240665-fc265j1hs59c4t5rj0bri38gi1agb5rr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HATTA.BIO"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

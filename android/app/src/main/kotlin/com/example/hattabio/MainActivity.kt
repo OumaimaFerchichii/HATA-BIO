@@ -1,0 +1,6 @@
+package com.HATTA.BIO
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
